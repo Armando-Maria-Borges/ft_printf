@@ -1,2 +1,3 @@
 # ft_printf
-Project ft_printf 42
+
+Este projecto é a replica das funcionalidades da função printf.
